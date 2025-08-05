@@ -13,5 +13,8 @@ class Hashtable{
         }
         return hash % this.size;
     }
+
+    /*funcion que agrega un elemento a la tabla hash*/
+    //agregar
     
 }
